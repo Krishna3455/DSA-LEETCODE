@@ -28,11 +28,4 @@ Each problem file includes:
 
 - C++ (primary)
 
----
-
-## 📬 Contact
-
-For any suggestions or collaboration:
-- GitHub: [YourUsername](https://github.com/YourUsername)
-- Email: your.email@example.com
 
